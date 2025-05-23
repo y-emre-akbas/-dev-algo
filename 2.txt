@@ -1,0 +1,153 @@
+      7
+🔢 2. Eleman: 5
+5 < 7 → Soluna yerleşir.
+
+markdown
+Kopyala
+Düzenle
+      7
+     /
+    5
+🔢 3. Eleman: 1
+1 < 7 → sola
+
+1 < 5 → sola
+
+markdown
+Kopyala
+Düzenle
+      7
+     /
+    5
+   /
+  1
+🔢 4. Eleman: 8
+8 > 7 → sağına
+
+markdown
+Kopyala
+Düzenle
+      7
+     / \
+    5   8
+   /
+  1
+🔢 5. Eleman: 3
+3 < 7 → sola
+
+3 < 5 → sola
+
+3 > 1 → sağına
+
+markdown
+Kopyala
+Düzenle
+      7
+     / \
+    5   8
+   /
+  1
+   \
+    3
+🔢 6. Eleman: 6
+6 < 7 → sola
+
+6 > 5 → sağına
+
+markdown
+Kopyala
+Düzenle
+      7
+     / \
+    5   8
+   / \
+  1   6
+   \
+    3
+🔢 7. Eleman: 0
+0 < 7 → sola
+
+0 < 5 → sola
+
+0 < 1 → sola
+
+markdown
+Kopyala
+Düzenle
+      7
+     / \
+    5   8
+   / \
+  1   6
+ / \
+0   3
+🔢 8. Eleman: 9
+9 > 7 → sağ
+
+9 > 8 → sağ
+
+markdown
+Kopyala
+Düzenle
+      7
+     / \
+    5   8
+   / \    \
+  1   6    9
+ / \
+0   3
+🔢 9. Eleman: 4
+4 < 7 → sola
+
+4 < 5 → sola
+
+4 > 1 → sağ
+
+4 > 3 → sağ
+
+markdown
+Kopyala
+Düzenle
+      7
+     / \
+    5   8
+   / \    \
+  1   6    9
+ / \
+0   3
+       \
+        4
+🔢 10. Eleman: 2
+2 < 7 → sola
+
+2 < 5 → sola
+
+2 > 1 → sağ
+
+2 < 3 → sola
+
+markdown
+Kopyala
+Düzenle
+      7
+     / \
+    5   8
+   / \    \
+  1   6    9
+ / \
+0   3
+   / \
+  2   4
+🧩 Sonuç: Oluşan Binary Search Tree (BST)
+markdown
+Kopyala
+Düzenle
+          7
+        /   \
+       5     8
+     /   \     \
+    1     6     9
+   / \
+  0   3
+     / \
+    2   4
